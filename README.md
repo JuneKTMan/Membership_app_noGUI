@@ -1,4 +1,4 @@
-# Membership Application - No GUI Version
+# Membership record App - No GUI Version
 
 ## Table of contents
 * [General info](#general-info)
