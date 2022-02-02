@@ -30,7 +30,7 @@ To run this project, install it locally. run the python script with any IDE or t
 
 
 ## Installation and Open 
-1. Clone the repo https://github.com/JuneKTMan/python_project.git
+1. Clone the repo https://github.com/JuneKTMan/Membership_app_noGUI.git
 2. Before opening the project file, please confirm your python have a sqlite3 module, you can install the module by,
 For Python version 3:
 ```
